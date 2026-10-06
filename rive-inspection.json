@@ -1,0 +1,189 @@
+{
+  "artboard": "Main 2",
+  "stateMachine": "State Machine_Main",
+  "bounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 2000,
+    "maxY": 2152
+  },
+  "contents": {
+    "artboards": [
+      {
+        "name": "Main ",
+        "animations": [
+          "Timeline 1",
+          "notification OUT",
+          "notification Loop",
+          "notification IN",
+          "notactive",
+          "notactive_Up and down",
+          "Up and down",
+          "Blink_Testing ",
+          "Idle",
+          "Welcome",
+          "To_Wrok ",
+          "left",
+          "right",
+          "Working_Loop (Random Move) v1",
+          "Working_Loop (Random Move) v2",
+          "Working_Loop (Clean Move)",
+          "To_Working Fast",
+          "Working Fast_Loop",
+          "To_Working fast slap",
+          "Working fast slap_Loop",
+          "To_Dizzy Head",
+          "Y",
+          "X",
+          "To Bin ",
+          "Annoyed",
+          "error loop OUT",
+          "error loop",
+          "error IN",
+          "Welcome_just a test"
+        ],
+        "stateMachines": [
+          {
+            "name": "State Machine_Main",
+            "inputs": []
+          },
+          {
+            "name": "State Machine _ Testing",
+            "inputs": []
+          },
+          {
+            "name": "Testing",
+            "inputs": []
+          },
+          {
+            "name": "test",
+            "inputs": []
+          }
+        ]
+      },
+      {
+        "name": "Main 2",
+        "animations": [
+          "Restting",
+          "random blink_empty",
+          "random blink",
+          "Timeline 1",
+          "pushing_02",
+          "pushing_01",
+          "Task finish OUT",
+          "Task finish Loop",
+          "Task finish IN 2",
+          "Task finish IN",
+          "notactive",
+          "notactive_Up and down",
+          "Up and down",
+          "Blink_Testing ",
+          "Idle",
+          "Welcome",
+          "To_Wrok ",
+          "left",
+          "right",
+          "Working_Loop (current Idle) OUT of hitbox",
+          "Working_Loop (current Idle) Main",
+          "Working_Loop (Random Move) v2",
+          "Working_Loop (Clean Move)Hover",
+          "Working_Loop (Clean Move) zero ",
+          "Working_Loop (Clean Move) Loop",
+          "Working_Loop (Clean Move) Invisible (Starter)",
+          "To_Working Fast",
+          "Working Fast_Loop",
+          "To_Working fast slap",
+          "Working fast slap_Loop",
+          "To_Dizzy Head",
+          "Y",
+          "X",
+          "To Bin ",
+          "Annoyed",
+          "error loop OUT",
+          "error loop",
+          "Working_Loop (Clean Move) red dot",
+          "error IN 2",
+          "error IN",
+          "Working_Loop (Clean Move) green dot",
+          "Working_Loop (Clean Move) Invisible_Annoyed",
+          "Working_Loop (Clean Move) Invisible_error",
+          "Working_Loop (Clean Move) Invisible_Task finished ",
+          "Welcome_just a test",
+          "Working_Loop (Clean Move) Invisible_upload file"
+        ],
+        "stateMachines": [
+          {
+            "name": "State Machine_Main",
+            "inputs": []
+          },
+          {
+            "name": "State Machine _ Testing",
+            "inputs": []
+          },
+          {
+            "name": "Testing",
+            "inputs": []
+          },
+          {
+            "name": "test",
+            "inputs": []
+          }
+        ]
+      }
+    ]
+  },
+  "viewModelProperties": [
+    {
+      "name": "reset",
+      "type": "trigger"
+    },
+    {
+      "name": "followX",
+      "type": "number"
+    },
+    {
+      "name": "followY",
+      "type": "number"
+    },
+    {
+      "name": "targetX",
+      "type": "number"
+    },
+    {
+      "name": "targetY",
+      "type": "number"
+    },
+    {
+      "name": "In and Out of artboard",
+      "type": "boolean"
+    },
+    {
+      "name": "Working hover",
+      "type": "boolean"
+    },
+    {
+      "name": "left",
+      "type": "boolean"
+    },
+    {
+      "name": "right",
+      "type": "boolean"
+    },
+    {
+      "name": "taskfinished",
+      "type": "boolean"
+    },
+    {
+      "name": "error",
+      "type": "boolean"
+    },
+    {
+      "name": "uploadfile",
+      "type": "trigger"
+    },
+    {
+      "name": "work",
+      "type": "trigger"
+    }
+  ]
+}

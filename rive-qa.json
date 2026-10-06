@@ -1,0 +1,338 @@
+[
+  {
+    "action": "work",
+    "error": false,
+    "finished": false,
+    "states": [
+      {
+        "at": 703.7000000476837,
+        "states": [
+          "random blink_empty",
+          "Working_Loop (Clean Move) Invisible (Starter)",
+          "notactive",
+          "Welcome"
+        ]
+      },
+      {
+        "at": 2901.100000023842,
+        "states": [
+          "random blink"
+        ]
+      },
+      {
+        "at": 5718.100000023842,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 6500.5,
+        "states": [
+          "Idle"
+        ]
+      },
+      {
+        "at": 7685.300000071526,
+        "states": [
+          "Working_Loop (current Idle) Main"
+        ]
+      },
+      {
+        "at": 8002.200000047684,
+        "states": [
+          "Working_Loop (current Idle) OUT of hitbox"
+        ]
+      },
+      {
+        "at": 8384.400000095367,
+        "states": [
+          "Up and down"
+        ]
+      }
+    ]
+  },
+  {
+    "action": "error",
+    "error": true,
+    "finished": false,
+    "states": [
+      {
+        "at": 703.7000000476837,
+        "states": [
+          "random blink_empty",
+          "Working_Loop (Clean Move) Invisible (Starter)",
+          "notactive",
+          "Welcome"
+        ]
+      },
+      {
+        "at": 2901.100000023842,
+        "states": [
+          "random blink"
+        ]
+      },
+      {
+        "at": 5718.100000023842,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 6500.5,
+        "states": [
+          "Idle"
+        ]
+      },
+      {
+        "at": 7685.300000071526,
+        "states": [
+          "Working_Loop (current Idle) Main"
+        ]
+      },
+      {
+        "at": 8002.200000047684,
+        "states": [
+          "Working_Loop (current Idle) OUT of hitbox"
+        ]
+      },
+      {
+        "at": 8384.400000095367,
+        "states": [
+          "Up and down"
+        ]
+      },
+      {
+        "at": 102047.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) red dot",
+          "error IN 2"
+        ]
+      }
+    ]
+  },
+  {
+    "action": "work",
+    "error": false,
+    "finished": false,
+    "states": [
+      {
+        "at": 5718.100000023842,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 6500.5,
+        "states": [
+          "Idle"
+        ]
+      },
+      {
+        "at": 7685.300000071526,
+        "states": [
+          "Working_Loop (current Idle) Main"
+        ]
+      },
+      {
+        "at": 8002.200000047684,
+        "states": [
+          "Working_Loop (current Idle) OUT of hitbox"
+        ]
+      },
+      {
+        "at": 8384.400000095367,
+        "states": [
+          "Up and down"
+        ]
+      },
+      {
+        "at": 102047.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) red dot",
+          "error IN 2"
+        ]
+      },
+      {
+        "at": 102946.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 103513.30000007153,
+        "states": [
+          "error loop OUT"
+        ]
+      }
+    ]
+  },
+  {
+    "action": "finished",
+    "error": false,
+    "finished": true,
+    "states": [
+      {
+        "at": 6500.5,
+        "states": [
+          "Idle"
+        ]
+      },
+      {
+        "at": 7685.300000071526,
+        "states": [
+          "Working_Loop (current Idle) Main"
+        ]
+      },
+      {
+        "at": 8002.200000047684,
+        "states": [
+          "Working_Loop (current Idle) OUT of hitbox"
+        ]
+      },
+      {
+        "at": 8384.400000095367,
+        "states": [
+          "Up and down"
+        ]
+      },
+      {
+        "at": 102047.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) red dot",
+          "error IN 2"
+        ]
+      },
+      {
+        "at": 102946.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 103513.30000007153,
+        "states": [
+          "error loop OUT"
+        ]
+      },
+      {
+        "at": 103862.5,
+        "states": [
+          "Working_Loop (Clean Move) green dot"
+        ]
+      }
+    ]
+  },
+  {
+    "action": "work",
+    "error": false,
+    "finished": false,
+    "states": [
+      {
+        "at": 8384.400000095367,
+        "states": [
+          "Up and down"
+        ]
+      },
+      {
+        "at": 102047.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) red dot",
+          "error IN 2"
+        ]
+      },
+      {
+        "at": 102946.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 103513.30000007153,
+        "states": [
+          "error loop OUT"
+        ]
+      },
+      {
+        "at": 103862.5,
+        "states": [
+          "Working_Loop (Clean Move) green dot"
+        ]
+      },
+      {
+        "at": 104762.5,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 104863.40000009537,
+        "states": [
+          "Working_Loop (current Idle) Main"
+        ]
+      },
+      {
+        "at": 105181.40000009537,
+        "states": [
+          "Working_Loop (current Idle) OUT of hitbox"
+        ]
+      }
+    ]
+  },
+  {
+    "action": "upload",
+    "error": false,
+    "finished": false,
+    "states": [
+      {
+        "at": 102047.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) red dot",
+          "error IN 2"
+        ]
+      },
+      {
+        "at": 102946.30000007153,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 103513.30000007153,
+        "states": [
+          "error loop OUT"
+        ]
+      },
+      {
+        "at": 103862.5,
+        "states": [
+          "Working_Loop (Clean Move) green dot"
+        ]
+      },
+      {
+        "at": 104762.5,
+        "states": [
+          "Working_Loop (Clean Move) Loop"
+        ]
+      },
+      {
+        "at": 104863.40000009537,
+        "states": [
+          "Working_Loop (current Idle) Main"
+        ]
+      },
+      {
+        "at": 105181.40000009537,
+        "states": [
+          "Working_Loop (current Idle) OUT of hitbox"
+        ]
+      },
+      {
+        "at": 105663.5,
+        "states": [
+          "Working_Loop (Clean Move) Invisible_upload file",
+          "To Bin "
+        ]
+      }
+    ]
+  }
+]

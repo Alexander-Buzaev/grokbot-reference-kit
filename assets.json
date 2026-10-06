@@ -1,0 +1,2310 @@
+{
+  "date": "2026-10-06",
+  "source": "https://www.novra.design/case-studies/grokbot",
+  "assets": [
+    {
+      "id": "01",
+      "type": "video",
+      "title": "01_Where it started - Grok Bot team. Character and motion by Benji Taylor.",
+      "group": "01_Where it started",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/01_Where%20it%20started/Grok%20Bot%20team.%20Character%20and%20motion%20by%20Benji%20Taylor..webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/01-01-Where-it-started-Grok-Bot-team-Character-and-motion-by-Benji-Taylor.webm",
+      "contentType": "video/webm",
+      "bytes": 3504867,
+      "sha256": "5962251482ffe3db1850ae322acafbef0a9679b176b60d35edc0306448c03fa3",
+      "durationSeconds": 30.75,
+      "width": 1496,
+      "height": 900,
+      "storyboard": "sheets/01.png",
+      "frames": [
+        {
+          "path": "frames/01/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/01/01-3.844s.png",
+          "timeSeconds": 3.84375
+        },
+        {
+          "path": "frames/01/02-7.688s.png",
+          "timeSeconds": 7.6875
+        },
+        {
+          "path": "frames/01/03-11.531s.png",
+          "timeSeconds": 11.53125
+        },
+        {
+          "path": "frames/01/04-15.375s.png",
+          "timeSeconds": 15.375
+        },
+        {
+          "path": "frames/01/05-19.219s.png",
+          "timeSeconds": 19.21875
+        },
+        {
+          "path": "frames/01/06-23.062s.png",
+          "timeSeconds": 23.0625
+        },
+        {
+          "path": "frames/01/07-26.906s.png",
+          "timeSeconds": 26.90625
+        }
+      ],
+      "displayTitle": "Исходный персонаж и motion Benji Taylor",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "02",
+      "type": "poster",
+      "title": "01_Where it started - Grok Bot team. Character and motion by Benji Taylor. - poster",
+      "group": "01_Where it started",
+      "url": "https://framerusercontent.com/images/jsRxzP4ZkRMYRj1NkULbuzsRZU.jpg?width=1496&height=900",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/02-01-Where-it-started-Grok-Bot-team-Character-and-motion-by-Benji-Taylor-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 25382,
+      "sha256": "fa9e02a3c22c7d3d714bbbedca77b3ecf4b0636cfafc234d3ceb1da88466878b",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "03",
+      "type": "video",
+      "title": "01_Where it started - John Bai.",
+      "group": "01_Where it started",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/01_Where%20it%20started/John%20Bai..webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/03-01-Where-it-started-John-Bai.webm",
+      "contentType": "video/webm",
+      "bytes": 5139343,
+      "sha256": "ed6888dbe5dee1aed1219fd99db6774d2c78131f0d1e46a7438e944bbeeeaf77",
+      "durationSeconds": 16.934,
+      "width": 1496,
+      "height": 900,
+      "storyboard": "sheets/03.png",
+      "frames": [
+        {
+          "path": "frames/03/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/03/01-2.117s.png",
+          "timeSeconds": 2.11675
+        },
+        {
+          "path": "frames/03/02-4.234s.png",
+          "timeSeconds": 4.2335
+        },
+        {
+          "path": "frames/03/03-6.350s.png",
+          "timeSeconds": 6.350250000000001
+        },
+        {
+          "path": "frames/03/04-8.467s.png",
+          "timeSeconds": 8.467
+        },
+        {
+          "path": "frames/03/05-10.584s.png",
+          "timeSeconds": 10.58375
+        },
+        {
+          "path": "frames/03/06-12.701s.png",
+          "timeSeconds": 12.700500000000002
+        },
+        {
+          "path": "frames/03/07-14.817s.png",
+          "timeSeconds": 14.817250000000001
+        }
+      ],
+      "displayTitle": "Notch-концепт John Bai",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "04",
+      "type": "poster",
+      "title": "01_Where it started - John Bai. - poster",
+      "group": "01_Where it started",
+      "url": "https://framerusercontent.com/images/EDzJqub1JjBbA7sW1qpo2I7eiW8.jpg?width=1496&height=900",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/04-01-Where-it-started-John-Bai-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 212425,
+      "sha256": "2c47932b1d7a3f44c4bcdf1a2fd97bbba204649b0b9f6a619727ef4b4eada27b",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "05",
+      "type": "image",
+      "title": "HoCa6K3HM5kGnDDB1FrZ8zrDj9w",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/HoCa6K3HM5kGnDDB1FrZ8zrDj9w.png?width=1001&height=300",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/05-HoCa6K3HM5kGnDDB1FrZ8zrDj9w.png",
+      "contentType": "image/png",
+      "bytes": 47296,
+      "sha256": "7ea26117874fd49bd144ca1dba891fc2ad5db41ba9adf119e5beaa634ee75a52",
+      "displayTitle": "Размещение персонажа на разных поверхностях",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "06",
+      "type": "image",
+      "title": "S9VOz4BORD66SrkO6Uhdjo9exs",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/S9VOz4BORD66SrkO6Uhdjo9exs.png?width=493&height=299",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/06-S9VOz4BORD66SrkO6Uhdjo9exs.png",
+      "contentType": "image/png",
+      "bytes": 2806,
+      "sha256": "3d06a4342d81ee41eb09f6ee6d3a686630879169afc9843cf581a2a3cb029213",
+      "displayTitle": "Размещение персонажа",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "07",
+      "type": "image",
+      "title": "Y8OsU13vb8YhkutTbVhE01sMuc",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/Y8OsU13vb8YhkutTbVhE01sMuc.png?width=466&height=422",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/07-Y8OsU13vb8YhkutTbVhE01sMuc.png",
+      "contentType": "image/png",
+      "bytes": 11751,
+      "sha256": "0c26faf5aa122e4d0f77b979fa0d0d511d07820783103228e96dae80ef3cc878",
+      "displayTitle": "Размещение персонажа",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "08",
+      "type": "image",
+      "title": "nTH1cw1nb0A7C939yLt3qYQHQ8",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/nTH1cw1nb0A7C939yLt3qYQHQ8.png?width=1022&height=422",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/08-nTH1cw1nb0A7C939yLt3qYQHQ8.png",
+      "contentType": "image/png",
+      "bytes": 17571,
+      "sha256": "7aed11de6444d09be4cd751da9216a6bb32713c79376902d0bf6ac3555836d1f",
+      "displayTitle": "Размещение персонажа",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "09",
+      "type": "image",
+      "title": "BY2BaIHMhUNNEGqFhqIIJOkzmAg",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/BY2BaIHMhUNNEGqFhqIIJOkzmAg.png?width=489&height=418",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/09-BY2BaIHMhUNNEGqFhqIIJOkzmAg.png",
+      "contentType": "image/png",
+      "bytes": 13483,
+      "sha256": "55ac492520ba6d23917319ba123c142325e6a6327e05d2e2923bd705bf87b341",
+      "displayTitle": "Интерфейс нескольких агентов",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "10",
+      "type": "image",
+      "title": "2dmNoIjipj1cwzkcnVHl5xH1UtE",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/2dmNoIjipj1cwzkcnVHl5xH1UtE.png?width=489&height=418",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/10-2dmNoIjipj1cwzkcnVHl5xH1UtE.png",
+      "contentType": "image/png",
+      "bytes": 16893,
+      "sha256": "c0b9d29142282078bf3e509c32329f2e272903bc06e2db577fabf5b4bc6c3bf3",
+      "displayTitle": "Интерфейс нескольких агентов",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "11",
+      "type": "image",
+      "title": "3gg5Bj8IX8zuG6ZWmwlsNlD09ws",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/3gg5Bj8IX8zuG6ZWmwlsNlD09ws.png?width=489&height=418",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/11-3gg5Bj8IX8zuG6ZWmwlsNlD09ws.png",
+      "contentType": "image/png",
+      "bytes": 9179,
+      "sha256": "d9e730a805800d039e92c6178b4d6e826bee3eaa358d862488d75ff1893bf139",
+      "displayTitle": "Интерфейс нескольких агентов",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "12",
+      "type": "video",
+      "title": "03_Then we put the interfaces in motion. - 1",
+      "group": "03_Then we put the interfaces in motion.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/03_Then%20we%20put%20the%20interfaces%20in%20motion./1.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/12-03-Then-we-put-the-interfaces-in-motion-1.webm",
+      "contentType": "video/webm",
+      "bytes": 855052,
+      "sha256": "54447d158aa9d0ba78b1b75369968382e38307c31c71c5101d44dc975a9cd815",
+      "durationSeconds": 4.434,
+      "width": 1492,
+      "height": 600,
+      "storyboard": "sheets/12.png",
+      "frames": [
+        {
+          "path": "frames/12/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/12/01-0.554s.png",
+          "timeSeconds": 0.55425
+        },
+        {
+          "path": "frames/12/02-1.109s.png",
+          "timeSeconds": 1.1085
+        },
+        {
+          "path": "frames/12/03-1.663s.png",
+          "timeSeconds": 1.66275
+        },
+        {
+          "path": "frames/12/04-2.217s.png",
+          "timeSeconds": 2.217
+        },
+        {
+          "path": "frames/12/05-2.771s.png",
+          "timeSeconds": 2.77125
+        },
+        {
+          "path": "frames/12/06-3.325s.png",
+          "timeSeconds": 3.3255
+        },
+        {
+          "path": "frames/12/07-3.880s.png",
+          "timeSeconds": 3.87975
+        }
+      ],
+      "displayTitle": "Mac notch во время работы",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "13",
+      "type": "poster",
+      "title": "03_Then we put the interfaces in motion. - 1 - poster",
+      "group": "03_Then we put the interfaces in motion.",
+      "url": "https://framerusercontent.com/images/1DlVQBMzVV9l1sXl0lp6fPHYScY.jpg?width=1493&height=600",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/13-03-Then-we-put-the-interfaces-in-motion-1-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 39189,
+      "sha256": "b084294dd48e7437b64409696e4e6749c9f14a58b3ebed7a71e9dd472c616ac7",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "14",
+      "type": "video",
+      "title": "03_Then we put the interfaces in motion. - 2",
+      "group": "03_Then we put the interfaces in motion.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/03_Then%20we%20put%20the%20interfaces%20in%20motion./2.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/14-03-Then-we-put-the-interfaces-in-motion-2.webm",
+      "contentType": "video/webm",
+      "bytes": 644942,
+      "sha256": "a1691223ab9d87749be7ca19f7f769d16c7f8c76ab726bb5f3c2deeb2b150ea5",
+      "durationSeconds": 4.417,
+      "width": 1492,
+      "height": 600,
+      "storyboard": "sheets/14.png",
+      "frames": [
+        {
+          "path": "frames/14/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/14/01-0.552s.png",
+          "timeSeconds": 0.552125
+        },
+        {
+          "path": "frames/14/02-1.104s.png",
+          "timeSeconds": 1.10425
+        },
+        {
+          "path": "frames/14/03-1.656s.png",
+          "timeSeconds": 1.656375
+        },
+        {
+          "path": "frames/14/04-2.208s.png",
+          "timeSeconds": 2.2085
+        },
+        {
+          "path": "frames/14/05-2.761s.png",
+          "timeSeconds": 2.760625
+        },
+        {
+          "path": "frames/14/06-3.313s.png",
+          "timeSeconds": 3.31275
+        },
+        {
+          "path": "frames/14/07-3.865s.png",
+          "timeSeconds": 3.8648749999999996
+        }
+      ],
+      "displayTitle": "Mac greeting и раскрытие",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "15",
+      "type": "poster",
+      "title": "03_Then we put the interfaces in motion. - 2 - poster",
+      "group": "03_Then we put the interfaces in motion.",
+      "url": "https://framerusercontent.com/images/kBv4HtIHW4mRgeOJTjuCzkNX6KY.jpg?width=1493&height=600",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/15-03-Then-we-put-the-interfaces-in-motion-2-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 34995,
+      "sha256": "a995d6bbd68a25bf3ef0fc7af03dd9010a364c452d5c45155c767c9c7a353744",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "16",
+      "type": "video",
+      "title": "03_Then we put the interfaces in motion. - 3",
+      "group": "03_Then we put the interfaces in motion.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/03_Then%20we%20put%20the%20interfaces%20in%20motion./3.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/16-03-Then-we-put-the-interfaces-in-motion-3.webm",
+      "contentType": "video/webm",
+      "bytes": 1400765,
+      "sha256": "3b9ee81959e608e20d4914523fe0d307b2193924720a817dbe10720261b697c0",
+      "durationSeconds": 7.717,
+      "width": 1492,
+      "height": 1432,
+      "storyboard": "sheets/16.png",
+      "frames": [
+        {
+          "path": "frames/16/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/16/01-0.965s.png",
+          "timeSeconds": 0.964625
+        },
+        {
+          "path": "frames/16/02-1.929s.png",
+          "timeSeconds": 1.92925
+        },
+        {
+          "path": "frames/16/03-2.894s.png",
+          "timeSeconds": 2.893875
+        },
+        {
+          "path": "frames/16/04-3.858s.png",
+          "timeSeconds": 3.8585
+        },
+        {
+          "path": "frames/16/05-4.823s.png",
+          "timeSeconds": 4.823125
+        },
+        {
+          "path": "frames/16/06-5.788s.png",
+          "timeSeconds": 5.78775
+        },
+        {
+          "path": "frames/16/07-6.752s.png",
+          "timeSeconds": 6.752375
+        }
+      ],
+      "displayTitle": "Виджет от работы к завершению",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "17",
+      "type": "poster",
+      "title": "03_Then we put the interfaces in motion. - 3 - poster",
+      "group": "03_Then we put the interfaces in motion.",
+      "url": "https://framerusercontent.com/images/xs6NUMoVV83pD3p2Sm74pDKzgfk.jpg?width=1492&height=1432",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/17-03-Then-we-put-the-interfaces-in-motion-3-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 123205,
+      "sha256": "be30e6a4dbdcace4f4cf6876f847b2964294cb7f8d062eb2aa31054b427de72b",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "18",
+      "type": "video",
+      "title": "03_Then we put the interfaces in motion. - 4",
+      "group": "03_Then we put the interfaces in motion.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/03_Then%20we%20put%20the%20interfaces%20in%20motion./4.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/18-03-Then-we-put-the-interfaces-in-motion-4.webm",
+      "contentType": "video/webm",
+      "bytes": 851760,
+      "sha256": "5265daff46e707111c76114094f7550980d025c01579d36da2ecd8f2c760c1f7",
+      "durationSeconds": 4.5,
+      "width": 1492,
+      "height": 1432,
+      "storyboard": "sheets/18.png",
+      "frames": [
+        {
+          "path": "frames/18/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/18/01-0.562s.png",
+          "timeSeconds": 0.5625
+        },
+        {
+          "path": "frames/18/02-1.125s.png",
+          "timeSeconds": 1.125
+        },
+        {
+          "path": "frames/18/03-1.688s.png",
+          "timeSeconds": 1.6875
+        },
+        {
+          "path": "frames/18/04-2.250s.png",
+          "timeSeconds": 2.25
+        },
+        {
+          "path": "frames/18/05-2.812s.png",
+          "timeSeconds": 2.8125
+        },
+        {
+          "path": "frames/18/06-3.375s.png",
+          "timeSeconds": 3.375
+        },
+        {
+          "path": "frames/18/07-3.938s.png",
+          "timeSeconds": 3.9375
+        }
+      ],
+      "displayTitle": "Live Activity со сменой состояния",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "19",
+      "type": "poster",
+      "title": "03_Then we put the interfaces in motion. - 4 - poster",
+      "group": "03_Then we put the interfaces in motion.",
+      "url": "https://framerusercontent.com/images/BIhHKoaqrS1YxeZdl5EG91Spmo.jpg?width=1492&height=1432",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/19-03-Then-we-put-the-interfaces-in-motion-4-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 135440,
+      "sha256": "52f2a31ee8283bfb3f09fb228f8882ed2c40e5ef8d0ca0ba8882752a3e3e98f0",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "20",
+      "type": "video",
+      "title": "04_A character needs more than working and done. - Follow",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/04_A%20character%20needs%20more%20than%20working%20and%20done./Follow.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/20-04-A-character-needs-more-than-working-and-done-Follow.webm",
+      "contentType": "video/webm",
+      "bytes": 329165,
+      "sha256": "204382a9d0426694a9af054f341c3d727f7924177203696c18eb465de8257e6f",
+      "durationSeconds": 2.367,
+      "width": 716,
+      "height": 502,
+      "storyboard": "sheets/20.png",
+      "frames": [
+        {
+          "path": "frames/20/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/20/01-0.296s.png",
+          "timeSeconds": 0.295875
+        },
+        {
+          "path": "frames/20/02-0.592s.png",
+          "timeSeconds": 0.59175
+        },
+        {
+          "path": "frames/20/03-0.888s.png",
+          "timeSeconds": 0.887625
+        },
+        {
+          "path": "frames/20/04-1.183s.png",
+          "timeSeconds": 1.1835
+        },
+        {
+          "path": "frames/20/05-1.479s.png",
+          "timeSeconds": 1.479375
+        },
+        {
+          "path": "frames/20/06-1.775s.png",
+          "timeSeconds": 1.77525
+        },
+        {
+          "path": "frames/20/07-2.071s.png",
+          "timeSeconds": 2.071125
+        }
+      ],
+      "displayTitle": "Follow",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "21",
+      "type": "poster",
+      "title": "04_A character needs more than working and done. - Follow - poster",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://framerusercontent.com/images/GFucELLYiAytz0XPEslnjrDBRPo.jpg?width=717&height=502",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/21-04-A-character-needs-more-than-working-and-done-Follow-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 16666,
+      "sha256": "c0dbddf1436dc9ad7b50e4af5f062560aa283675b978d9f507ed21f8aa6396f0",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "22",
+      "type": "video",
+      "title": "04_A character needs more than working and done. - Annoyed",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/04_A%20character%20needs%20more%20than%20working%20and%20done./Annoyed.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/22-04-A-character-needs-more-than-working-and-done-Annoyed.webm",
+      "contentType": "video/webm",
+      "bytes": 167344,
+      "sha256": "4e69c47de981e36b0273d5fe5fc51fe96cb2e7291717a0876edd65570cfe56c6",
+      "durationSeconds": 1.35,
+      "width": 716,
+      "height": 502,
+      "storyboard": "sheets/22.png",
+      "frames": [
+        {
+          "path": "frames/22/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/22/01-0.169s.png",
+          "timeSeconds": 0.16875
+        },
+        {
+          "path": "frames/22/02-0.338s.png",
+          "timeSeconds": 0.3375
+        },
+        {
+          "path": "frames/22/03-0.506s.png",
+          "timeSeconds": 0.5062500000000001
+        },
+        {
+          "path": "frames/22/04-0.675s.png",
+          "timeSeconds": 0.675
+        },
+        {
+          "path": "frames/22/05-0.844s.png",
+          "timeSeconds": 0.84375
+        },
+        {
+          "path": "frames/22/06-1.013s.png",
+          "timeSeconds": 1.0125000000000002
+        },
+        {
+          "path": "frames/22/07-1.181s.png",
+          "timeSeconds": 1.1812500000000001
+        }
+      ],
+      "displayTitle": "Annoyed",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "23",
+      "type": "poster",
+      "title": "04_A character needs more than working and done. - Annoyed - poster",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://framerusercontent.com/images/XfZzkXRPtPVAUf5lyQDfbhShM.jpg?width=717&height=502",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/23-04-A-character-needs-more-than-working-and-done-Annoyed-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 15841,
+      "sha256": "0aa38b7545d83e24278ddc5c7dcb7293565121f57318a6177bcfd6cd74ac3958",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "24",
+      "type": "video",
+      "title": "04_A character needs more than working and done. - Slap",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/04_A%20character%20needs%20more%20than%20working%20and%20done./Slap.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/24-04-A-character-needs-more-than-working-and-done-Slap.webm",
+      "contentType": "video/webm",
+      "bytes": 152490,
+      "sha256": "378e0a7f8da9149f1826f79218892c7d034106c7ca5145fb09359aa41a66a473",
+      "durationSeconds": 1.25,
+      "width": 716,
+      "height": 502,
+      "storyboard": "sheets/24.png",
+      "frames": [
+        {
+          "path": "frames/24/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/24/01-0.156s.png",
+          "timeSeconds": 0.15625
+        },
+        {
+          "path": "frames/24/02-0.312s.png",
+          "timeSeconds": 0.3125
+        },
+        {
+          "path": "frames/24/03-0.469s.png",
+          "timeSeconds": 0.46875
+        },
+        {
+          "path": "frames/24/04-0.625s.png",
+          "timeSeconds": 0.625
+        },
+        {
+          "path": "frames/24/05-0.781s.png",
+          "timeSeconds": 0.78125
+        },
+        {
+          "path": "frames/24/06-0.938s.png",
+          "timeSeconds": 0.9375
+        },
+        {
+          "path": "frames/24/07-1.094s.png",
+          "timeSeconds": 1.09375
+        }
+      ],
+      "displayTitle": "Slap",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "25",
+      "type": "poster",
+      "title": "04_A character needs more than working and done. - Slap - poster",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://framerusercontent.com/images/jwfihIkXCLTf2OEXEiYbAp29ik.jpg?width=717&height=502",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/25-04-A-character-needs-more-than-working-and-done-Slap-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 16345,
+      "sha256": "dc15636249ddc658452a17e56585501b5285a8d873ec769b3e20c663b60659c3",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "26",
+      "type": "video",
+      "title": "04_A character needs more than working and done. - Dizzy",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/04_A%20character%20needs%20more%20than%20working%20and%20done./Dizzy.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/26-04-A-character-needs-more-than-working-and-done-Dizzy.webm",
+      "contentType": "video/webm",
+      "bytes": 149463,
+      "sha256": "1a6f9e616e210f66777a4e837738f67b09e017125b19d0cead131a5f23fa91fd",
+      "durationSeconds": 1.25,
+      "width": 716,
+      "height": 502,
+      "storyboard": "sheets/26.png",
+      "frames": [
+        {
+          "path": "frames/26/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/26/01-0.156s.png",
+          "timeSeconds": 0.15625
+        },
+        {
+          "path": "frames/26/02-0.312s.png",
+          "timeSeconds": 0.3125
+        },
+        {
+          "path": "frames/26/03-0.469s.png",
+          "timeSeconds": 0.46875
+        },
+        {
+          "path": "frames/26/04-0.625s.png",
+          "timeSeconds": 0.625
+        },
+        {
+          "path": "frames/26/05-0.781s.png",
+          "timeSeconds": 0.78125
+        },
+        {
+          "path": "frames/26/06-0.938s.png",
+          "timeSeconds": 0.9375
+        },
+        {
+          "path": "frames/26/07-1.094s.png",
+          "timeSeconds": 1.09375
+        }
+      ],
+      "displayTitle": "Dizzy",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "27",
+      "type": "poster",
+      "title": "04_A character needs more than working and done. - Dizzy - poster",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://framerusercontent.com/images/Kdq3CQPOTtczJI0bywuynpFA4Mg.jpg?width=717&height=502",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/27-04-A-character-needs-more-than-working-and-done-Dizzy-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 13980,
+      "sha256": "a6fd980020060edc535eaf0f0d479a9be2c4b908bf1ca18a926c1e1a92492c10",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "28",
+      "type": "video",
+      "title": "04_A character needs more than working and done. - Upload",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/04_A%20character%20needs%20more%20than%20working%20and%20done./Upload.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/28-04-A-character-needs-more-than-working-and-done-Upload.webm",
+      "contentType": "video/webm",
+      "bytes": 261564,
+      "sha256": "b90018635fae516c4d3e7643aaf77fe9bd0d838d490acdcbe2db505e73a9177c",
+      "durationSeconds": 1.95,
+      "width": 716,
+      "height": 502,
+      "storyboard": "sheets/28.png",
+      "frames": [
+        {
+          "path": "frames/28/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/28/01-0.244s.png",
+          "timeSeconds": 0.24375
+        },
+        {
+          "path": "frames/28/02-0.487s.png",
+          "timeSeconds": 0.4875
+        },
+        {
+          "path": "frames/28/03-0.731s.png",
+          "timeSeconds": 0.73125
+        },
+        {
+          "path": "frames/28/04-0.975s.png",
+          "timeSeconds": 0.975
+        },
+        {
+          "path": "frames/28/05-1.219s.png",
+          "timeSeconds": 1.21875
+        },
+        {
+          "path": "frames/28/06-1.462s.png",
+          "timeSeconds": 1.4625
+        },
+        {
+          "path": "frames/28/07-1.706s.png",
+          "timeSeconds": 1.70625
+        }
+      ],
+      "displayTitle": "Upload",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "29",
+      "type": "poster",
+      "title": "04_A character needs more than working and done. - Upload - poster",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://framerusercontent.com/images/jAsqSAzOgVOmBsIf8aMqWzweaIs.jpg?width=717&height=502",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/29-04-A-character-needs-more-than-working-and-done-Upload-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 17294,
+      "sha256": "7f4dc09cdb42962fbf194847d38aca1ed2dc01f222d287c543d181b6d0858041",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "30",
+      "type": "video",
+      "title": "04_A character needs more than working and done. - Error",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/04_A%20character%20needs%20more%20than%20working%20and%20done./Error.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/30-04-A-character-needs-more-than-working-and-done-Error.webm",
+      "contentType": "video/webm",
+      "bytes": 339365,
+      "sha256": "2d189fa8840e697ad91f78c5f68bbb68b6dbc973260b2ddaf54aed47f06c1c1e",
+      "durationSeconds": 2.367,
+      "width": 716,
+      "height": 502,
+      "storyboard": "sheets/30.png",
+      "frames": [
+        {
+          "path": "frames/30/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/30/01-0.296s.png",
+          "timeSeconds": 0.295875
+        },
+        {
+          "path": "frames/30/02-0.592s.png",
+          "timeSeconds": 0.59175
+        },
+        {
+          "path": "frames/30/03-0.888s.png",
+          "timeSeconds": 0.887625
+        },
+        {
+          "path": "frames/30/04-1.183s.png",
+          "timeSeconds": 1.1835
+        },
+        {
+          "path": "frames/30/05-1.479s.png",
+          "timeSeconds": 1.479375
+        },
+        {
+          "path": "frames/30/06-1.775s.png",
+          "timeSeconds": 1.77525
+        },
+        {
+          "path": "frames/30/07-2.071s.png",
+          "timeSeconds": 2.071125
+        }
+      ],
+      "displayTitle": "Error",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "31",
+      "type": "poster",
+      "title": "04_A character needs more than working and done. - Error - poster",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://framerusercontent.com/images/C6barZ11LIdgpwsFPy3wek9DA.jpg?width=717&height=502",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/31-04-A-character-needs-more-than-working-and-done-Error-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 14917,
+      "sha256": "24ad919efc63435f270ce91e80b8287abbd840f593fa2bbb144049a8f094c63f",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "32",
+      "type": "video",
+      "title": "04_A character needs more than working and done. - Finished",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/04_A%20character%20needs%20more%20than%20working%20and%20done./Finished.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/32-04-A-character-needs-more-than-working-and-done-Finished.webm",
+      "contentType": "video/webm",
+      "bytes": 559085,
+      "sha256": "b283a1e12feef06f2164107d2b5e1b4bc8c045ba818fddbd9a596df479b882ae",
+      "durationSeconds": 3.684,
+      "width": 716,
+      "height": 502,
+      "storyboard": "sheets/32.png",
+      "frames": [
+        {
+          "path": "frames/32/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/32/01-0.461s.png",
+          "timeSeconds": 0.4605
+        },
+        {
+          "path": "frames/32/02-0.921s.png",
+          "timeSeconds": 0.921
+        },
+        {
+          "path": "frames/32/03-1.381s.png",
+          "timeSeconds": 1.3815
+        },
+        {
+          "path": "frames/32/04-1.842s.png",
+          "timeSeconds": 1.842
+        },
+        {
+          "path": "frames/32/05-2.303s.png",
+          "timeSeconds": 2.3025
+        },
+        {
+          "path": "frames/32/06-2.763s.png",
+          "timeSeconds": 2.763
+        },
+        {
+          "path": "frames/32/07-3.224s.png",
+          "timeSeconds": 3.2235
+        }
+      ],
+      "displayTitle": "Finished",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "33",
+      "type": "poster",
+      "title": "04_A character needs more than working and done. - Finished - poster",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://framerusercontent.com/images/ueVfRJdhpcYjS1otwGVDSRqiqig.jpg?width=180&height=126",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/33-04-A-character-needs-more-than-working-and-done-Finished-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 5246,
+      "sha256": "75e33e9acee0ad7693a62d2ee879e09aa2c7fdd435319505c83a0a09068cf56b",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "34",
+      "type": "video",
+      "title": "04_A character needs more than working and done. - Working",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/04_A%20character%20needs%20more%20than%20working%20and%20done./Working.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/34-04-A-character-needs-more-than-working-and-done-Working.webm",
+      "contentType": "video/webm",
+      "bytes": 372229,
+      "sha256": "c69b0f88b0b1244bea0b07505f322c067e26985d1d9a6ed25293f4188f37c5e5",
+      "durationSeconds": 2.7,
+      "width": 716,
+      "height": 502,
+      "storyboard": "sheets/34.png",
+      "frames": [
+        {
+          "path": "frames/34/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/34/01-0.338s.png",
+          "timeSeconds": 0.3375
+        },
+        {
+          "path": "frames/34/02-0.675s.png",
+          "timeSeconds": 0.675
+        },
+        {
+          "path": "frames/34/03-1.013s.png",
+          "timeSeconds": 1.0125000000000002
+        },
+        {
+          "path": "frames/34/04-1.350s.png",
+          "timeSeconds": 1.35
+        },
+        {
+          "path": "frames/34/05-1.688s.png",
+          "timeSeconds": 1.6875
+        },
+        {
+          "path": "frames/34/06-2.025s.png",
+          "timeSeconds": 2.0250000000000004
+        },
+        {
+          "path": "frames/34/07-2.363s.png",
+          "timeSeconds": 2.3625000000000003
+        }
+      ],
+      "displayTitle": "Working",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "35",
+      "type": "poster",
+      "title": "04_A character needs more than working and done. - Working - poster",
+      "group": "04_A character needs more than working and done.",
+      "url": "https://framerusercontent.com/images/qK4Qva11D05ASWnedOs3Teak.jpg?width=717&height=502",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/35-04-A-character-needs-more-than-working-and-done-Working-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 16860,
+      "sha256": "a0b37a6a6735a2e9af076064e3d8c89a3a692c44a5596ba7ca6b2971c975c63e",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "36",
+      "type": "image",
+      "title": "w97alMmwmtCqRN4GF8Nfa4ZDLik",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/w97alMmwmtCqRN4GF8Nfa4ZDLik.png?width=1494&height=870",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/36-w97alMmwmtCqRN4GF8Nfa4ZDLik.png",
+      "contentType": "image/png",
+      "bytes": 28688,
+      "sha256": "8f188dd7e5101e03b6415dc153fac622c75eb6b853c57b6e6475a7df83a261ca",
+      "displayTitle": "Схема логики в Figma",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "37",
+      "type": "image",
+      "title": "CM84I6whzmERhWnLHDJ7VjFl5M8",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/CM84I6whzmERhWnLHDJ7VjFl5M8.png?width=1494&height=870",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/37-CM84I6whzmERhWnLHDJ7VjFl5M8.png",
+      "contentType": "image/png",
+      "bytes": 46298,
+      "sha256": "fb8335db5f43a98b441cd249e4acd812d1b78dfd9d7cb14c01fdd898e09feea6",
+      "displayTitle": "State machine в Rive",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "38",
+      "type": "video",
+      "title": "06_Then we let it expand. - 1",
+      "group": "06_Then we let it expand.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/06_Then%20we%20let%20it%20expand./1.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/38-06-Then-we-let-it-expand-1.webm",
+      "contentType": "video/webm",
+      "bytes": 2621419,
+      "sha256": "0288e35877072b15534db26648d04b98b7222ece2339e8ad60c31be96658caad",
+      "durationSeconds": 13.784,
+      "width": 1678,
+      "height": 1472,
+      "storyboard": "sheets/38.png",
+      "frames": [
+        {
+          "path": "frames/38/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/38/01-1.723s.png",
+          "timeSeconds": 1.723
+        },
+        {
+          "path": "frames/38/02-3.446s.png",
+          "timeSeconds": 3.446
+        },
+        {
+          "path": "frames/38/03-5.169s.png",
+          "timeSeconds": 5.1690000000000005
+        },
+        {
+          "path": "frames/38/04-6.892s.png",
+          "timeSeconds": 6.892
+        },
+        {
+          "path": "frames/38/05-8.615s.png",
+          "timeSeconds": 8.615
+        },
+        {
+          "path": "frames/38/06-10.338s.png",
+          "timeSeconds": 10.338000000000001
+        },
+        {
+          "path": "frames/38/07-12.061s.png",
+          "timeSeconds": 12.061
+        }
+      ],
+      "displayTitle": "Развитие интерфейса виджета 1",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "39",
+      "type": "poster",
+      "title": "06_Then we let it expand. - 1 - poster",
+      "group": "06_Then we let it expand.",
+      "url": "https://framerusercontent.com/images/lC9q3Ywf1fbs3kEYqMOUzk9Fs.jpg?width=1678&height=1472",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/39-06-Then-we-let-it-expand-1-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 163627,
+      "sha256": "eaca7c9f44c8ef0511728b5816d90a24bc1346b684af003a8d1ddfc35993dde0",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "40",
+      "type": "video",
+      "title": "06_Then we let it expand. - 2",
+      "group": "06_Then we let it expand.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/06_Then%20we%20let%20it%20expand./2.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/40-06-Then-we-let-it-expand-2.webm",
+      "contentType": "video/webm",
+      "bytes": 3599920,
+      "sha256": "9e41636231d58ab349043b498bf3525eb585f57ba35b6d233c3671851dfde370",
+      "durationSeconds": 19.384,
+      "width": 1678,
+      "height": 1472,
+      "storyboard": "sheets/40.png",
+      "frames": [
+        {
+          "path": "frames/40/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/40/01-2.423s.png",
+          "timeSeconds": 2.423
+        },
+        {
+          "path": "frames/40/02-4.846s.png",
+          "timeSeconds": 4.846
+        },
+        {
+          "path": "frames/40/03-7.269s.png",
+          "timeSeconds": 7.269
+        },
+        {
+          "path": "frames/40/04-9.692s.png",
+          "timeSeconds": 9.692
+        },
+        {
+          "path": "frames/40/05-12.115s.png",
+          "timeSeconds": 12.115
+        },
+        {
+          "path": "frames/40/06-14.538s.png",
+          "timeSeconds": 14.538
+        },
+        {
+          "path": "frames/40/07-16.961s.png",
+          "timeSeconds": 16.961
+        }
+      ],
+      "displayTitle": "Развитие интерфейса виджета 2",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "41",
+      "type": "poster",
+      "title": "06_Then we let it expand. - 2 - poster",
+      "group": "06_Then we let it expand.",
+      "url": "https://framerusercontent.com/images/x1WAdgDa7CtTgSMvgcIUjCnlA4.jpg?width=1678&height=1472",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/41-06-Then-we-let-it-expand-2-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 139248,
+      "sha256": "491b3692f3ccd3cdd4785a8f9bdf5677aff536368459a9cbce835a5ea3364540",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "42",
+      "type": "image",
+      "title": "twF0UNfd3rWAGwe0or7iYmqE9z8",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/twF0UNfd3rWAGwe0or7iYmqE9z8.jpg?width=1492&height=843",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/42-twF0UNfd3rWAGwe0or7iYmqE9z8.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 75318,
+      "sha256": "5a3f7f30cb9594d821afcc3e447b46b408b717fd72d4b5267b5492b40eab254a",
+      "displayTitle": "Lock Screen exploration 1",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "43",
+      "type": "image",
+      "title": "DceZXbWww6NhkB14829ALlGkrGA",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/DceZXbWww6NhkB14829ALlGkrGA.jpg?width=1492&height=843",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/43-DceZXbWww6NhkB14829ALlGkrGA.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 54850,
+      "sha256": "2f441b59fb53202fc6f012074e41226878e6eae800480888b8caa94fe88c9d42",
+      "displayTitle": "Lock Screen exploration 2",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "44",
+      "type": "video",
+      "title": "09_We kept going - 3",
+      "group": "09_We kept going",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/09_We%20kept%20going/3.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/44-09-We-kept-going-3.webm",
+      "contentType": "video/webm",
+      "bytes": 5764,
+      "sha256": "e6418f0bd5dd20079d72926db072a36ea65251ddf8bb510e116ff38d9181c7b9",
+      "durationSeconds": 0.184,
+      "width": 974,
+      "height": 454,
+      "storyboard": "sheets/44.png",
+      "frames": [
+        {
+          "path": "frames/44/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/44/01-0.023s.png",
+          "timeSeconds": 0.023
+        },
+        {
+          "path": "frames/44/02-0.046s.png",
+          "timeSeconds": 0.046
+        },
+        {
+          "path": "frames/44/03-0.069s.png",
+          "timeSeconds": 0.069
+        },
+        {
+          "path": "frames/44/04-0.092s.png",
+          "timeSeconds": 0.092
+        },
+        {
+          "path": "frames/44/05-0.115s.png",
+          "timeSeconds": 0.11499999999999999
+        },
+        {
+          "path": "frames/44/06-0.138s.png",
+          "timeSeconds": 0.138
+        },
+        {
+          "path": "frames/44/07-0.161s.png",
+          "timeSeconds": 0.161
+        }
+      ],
+      "displayTitle": "Другие исследования движения 3",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "45",
+      "type": "poster",
+      "title": "09_We kept going - 3 - poster",
+      "group": "09_We kept going",
+      "url": "https://framerusercontent.com/images/KXugf3WexzXFSf08NhekC8m8ux0.jpg?width=974&height=455",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/45-09-We-kept-going-3-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 17079,
+      "sha256": "79367dfdc7058fe36b4fdd9e3435f509e757a108442ee31913809714a008ddbe",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "46",
+      "type": "video",
+      "title": "09_We kept going - 4",
+      "group": "09_We kept going",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/09_We%20kept%20going/4.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/46-09-We-kept-going-4.webm",
+      "contentType": "video/webm",
+      "bytes": 6480,
+      "sha256": "383fb17ae33847cf9c9585742cf871de21e2676f003c67498b1a11a02adbed73",
+      "durationSeconds": 0.184,
+      "width": 974,
+      "height": 454,
+      "storyboard": "sheets/46.png",
+      "frames": [
+        {
+          "path": "frames/46/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/46/01-0.023s.png",
+          "timeSeconds": 0.023
+        },
+        {
+          "path": "frames/46/02-0.046s.png",
+          "timeSeconds": 0.046
+        },
+        {
+          "path": "frames/46/03-0.069s.png",
+          "timeSeconds": 0.069
+        },
+        {
+          "path": "frames/46/04-0.092s.png",
+          "timeSeconds": 0.092
+        },
+        {
+          "path": "frames/46/05-0.115s.png",
+          "timeSeconds": 0.11499999999999999
+        },
+        {
+          "path": "frames/46/06-0.138s.png",
+          "timeSeconds": 0.138
+        },
+        {
+          "path": "frames/46/07-0.161s.png",
+          "timeSeconds": 0.161
+        }
+      ],
+      "displayTitle": "Другие исследования движения 4",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "47",
+      "type": "poster",
+      "title": "09_We kept going - 4 - poster",
+      "group": "09_We kept going",
+      "url": "https://framerusercontent.com/images/0rDChVf6XMSiDgJknCzwJawNXaU.jpg?width=974&height=455",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/47-09-We-kept-going-4-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 18993,
+      "sha256": "2e30e3be830361c64d95c8228d0b52a89722aae59208ed15e271069c28dbb40c",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "48",
+      "type": "video",
+      "title": "09_We kept going - 5",
+      "group": "09_We kept going",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/09_We%20kept%20going/5.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/48-09-We-kept-going-5.webm",
+      "contentType": "video/webm",
+      "bytes": 2577494,
+      "sha256": "59dc457eac485e7f62c8b09ae46d2cd047e044fa2f542478a6eca4ccabc9dae4",
+      "durationSeconds": 5.35,
+      "width": 974,
+      "height": 454,
+      "storyboard": "sheets/48.png",
+      "frames": [
+        {
+          "path": "frames/48/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/48/01-0.669s.png",
+          "timeSeconds": 0.66875
+        },
+        {
+          "path": "frames/48/02-1.337s.png",
+          "timeSeconds": 1.3375
+        },
+        {
+          "path": "frames/48/03-2.006s.png",
+          "timeSeconds": 2.0062499999999996
+        },
+        {
+          "path": "frames/48/04-2.675s.png",
+          "timeSeconds": 2.675
+        },
+        {
+          "path": "frames/48/05-3.344s.png",
+          "timeSeconds": 3.34375
+        },
+        {
+          "path": "frames/48/06-4.012s.png",
+          "timeSeconds": 4.012499999999999
+        },
+        {
+          "path": "frames/48/07-4.681s.png",
+          "timeSeconds": 4.6812499999999995
+        }
+      ],
+      "displayTitle": "Другие исследования движения 5",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "49",
+      "type": "poster",
+      "title": "09_We kept going - 5 - poster",
+      "group": "09_We kept going",
+      "url": "https://framerusercontent.com/images/wu1LeuPb175iHtPHhQmGXLkuCZA.jpg?width=325&height=152",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/49-09-We-kept-going-5-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 5134,
+      "sha256": "1d86fdd9a19ec4402fb343c1eb8c56157ac8db26417b790e69f26468ba7a98ac",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "50",
+      "type": "video",
+      "title": "09_We kept going - 6",
+      "group": "09_We kept going",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/09_We%20kept%20going/6.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/50-09-We-kept-going-6.webm",
+      "contentType": "video/webm",
+      "bytes": 5900025,
+      "sha256": "baeec8a7663408a363ecbf55c9d15a11ea5c937c7e0d8181af6880941b81b9f9",
+      "durationSeconds": 7.917,
+      "width": 1490,
+      "height": 1222,
+      "storyboard": "sheets/50.png",
+      "frames": [
+        {
+          "path": "frames/50/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/50/01-0.990s.png",
+          "timeSeconds": 0.989625
+        },
+        {
+          "path": "frames/50/02-1.979s.png",
+          "timeSeconds": 1.97925
+        },
+        {
+          "path": "frames/50/03-2.969s.png",
+          "timeSeconds": 2.9688749999999997
+        },
+        {
+          "path": "frames/50/04-3.958s.png",
+          "timeSeconds": 3.9585
+        },
+        {
+          "path": "frames/50/05-4.948s.png",
+          "timeSeconds": 4.948125
+        },
+        {
+          "path": "frames/50/06-5.938s.png",
+          "timeSeconds": 5.937749999999999
+        },
+        {
+          "path": "frames/50/07-6.927s.png",
+          "timeSeconds": 6.927375
+        }
+      ],
+      "displayTitle": "Другие исследования движения 6",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "51",
+      "type": "poster",
+      "title": "09_We kept going - 6 - poster",
+      "group": "09_We kept going",
+      "url": "https://framerusercontent.com/images/dkopYN3n6pBWNif0zq08C4aDEc.jpg?width=1491&height=1222",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/51-09-We-kept-going-6-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 87421,
+      "sha256": "9773ab3bfb70596d78d5acc73c3ba98ca089effaf0ece2e9a7b5bfa13230321e",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "52",
+      "type": "video",
+      "title": "09_We kept going - 7",
+      "group": "09_We kept going",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/09_We%20kept%20going/7.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/52-09-We-kept-going-7.webm",
+      "contentType": "video/webm",
+      "bytes": 8440762,
+      "sha256": "053ca1c7ae0da6c9d8d7f72b3fcbdb827f4f5fdf6206e59cac75cca1d7d9adb7",
+      "durationSeconds": 7.917,
+      "width": 1490,
+      "height": 1222,
+      "storyboard": "sheets/52.png",
+      "frames": [
+        {
+          "path": "frames/52/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/52/01-0.990s.png",
+          "timeSeconds": 0.989625
+        },
+        {
+          "path": "frames/52/02-1.979s.png",
+          "timeSeconds": 1.97925
+        },
+        {
+          "path": "frames/52/03-2.969s.png",
+          "timeSeconds": 2.9688749999999997
+        },
+        {
+          "path": "frames/52/04-3.958s.png",
+          "timeSeconds": 3.9585
+        },
+        {
+          "path": "frames/52/05-4.948s.png",
+          "timeSeconds": 4.948125
+        },
+        {
+          "path": "frames/52/06-5.938s.png",
+          "timeSeconds": 5.937749999999999
+        },
+        {
+          "path": "frames/52/07-6.927s.png",
+          "timeSeconds": 6.927375
+        }
+      ],
+      "displayTitle": "Другие исследования движения 7",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "53",
+      "type": "poster",
+      "title": "09_We kept going - 7 - poster",
+      "group": "09_We kept going",
+      "url": "https://framerusercontent.com/images/arfiW5iBPUU4IUUhWh1vlxIyYD0.jpg?width=1491&height=1222",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/53-09-We-kept-going-7-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 72088,
+      "sha256": "685f188947f108c9f24bbedfd189afae8224d74ec0451a9999056066ac83cc88",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "54",
+      "type": "image",
+      "title": "wpzGhf0acqoHhWRwHgVgrxXA",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/wpzGhf0acqoHhWRwHgVgrxXA.jpg?width=1498&height=628",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/54-wpzGhf0acqoHhWRwHgVgrxXA.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 87435,
+      "sha256": "ad85faca1d54b921b6560bedc8c532231d2aa8c1f170bd742d38cd07cda8db11",
+      "displayTitle": "Sketches",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "55",
+      "type": "image",
+      "title": "24lJ03qYe4BYnZT14PqZ9IoMQJY",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/24lJ03qYe4BYnZT14PqZ9IoMQJY.jpg?width=1492&height=628",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/55-24lJ03qYe4BYnZT14PqZ9IoMQJY.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 251145,
+      "sha256": "4feab67b48131d33629e9af09721ae1f9d1c4929aff0c9a2582725c621507d93",
+      "displayTitle": "Vector explorations",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "56",
+      "type": "image",
+      "title": "vZfAETWaBkEpq74Lvs93J6bRJ0M",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/vZfAETWaBkEpq74Lvs93J6bRJ0M.jpg?width=2002&height=1177",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/56-vZfAETWaBkEpq74Lvs93J6bRJ0M.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 125177,
+      "sha256": "a97c248d9651a0b08a051d7e20e69b420268bb9a38e7eb8aae7087c8e7fbde83",
+      "displayTitle": "Исследования характера и композиции",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "57",
+      "type": "image",
+      "title": "oeH2Zr7eBIvy9ETkQvGbSxEsHVU",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/oeH2Zr7eBIvy9ETkQvGbSxEsHVU.jpg?width=986&height=1174",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/57-oeH2Zr7eBIvy9ETkQvGbSxEsHVU.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 75234,
+      "sha256": "f1d2656c8885fbb7a4982862453806e1e87a26714bd413ccb0e04bd599be1aa2",
+      "displayTitle": "Исследования характера и композиции",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "58",
+      "type": "image",
+      "title": "VqDSN7nduD0Ltai04hinEyVR8w",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/VqDSN7nduD0Ltai04hinEyVR8w.jpg?width=962&height=845",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/58-VqDSN7nduD0Ltai04hinEyVR8w.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 118368,
+      "sha256": "2aa368ef94ba4e3a2b5adf0aeb607342ee312ef30394e1ecbe8ae03f3fad4bed",
+      "displayTitle": "Исследования характера и композиции",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "59",
+      "type": "image",
+      "title": "PzQNoFpAiO6fy9suUaPSmBaM",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/PzQNoFpAiO6fy9suUaPSmBaM.jpg?width=962&height=845",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/59-PzQNoFpAiO6fy9suUaPSmBaM.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 70991,
+      "sha256": "be5535157fb0764df5a2a34ca42e167a169b083d862147bcec5918e859996ffe",
+      "displayTitle": "Исследования характера и композиции",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "60",
+      "type": "image",
+      "title": "aMfaaji2dMQYvOiZjOjBRD1Guc",
+      "group": "Case study images",
+      "url": "https://framerusercontent.com/images/aMfaaji2dMQYvOiZjOjBRD1Guc.jpg?width=1004&height=845",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/image/60-aMfaaji2dMQYvOiZjOjBRD1Guc.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 60384,
+      "sha256": "3a7e433a355a06b019a83ec62e1ae4f1de29e681876335773aaea49a49efa30c",
+      "displayTitle": "Исследования характера и композиции",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "61",
+      "type": "video",
+      "title": "11_One character, everywhere it needed to be. - 6",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/11_One%20character%2C%20everywhere%20it%20needed%20to%20be./6.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/61-11-One-character-everywhere-it-needed-to-be-6.webm",
+      "contentType": "video/webm",
+      "bytes": 991467,
+      "sha256": "c55f2cfc837937509fe6c8b39e0bdb05fb7a819a5befe5b8087809d4374581cf",
+      "durationSeconds": 5.467,
+      "width": 1492,
+      "height": 460,
+      "storyboard": "sheets/61.png",
+      "frames": [
+        {
+          "path": "frames/61/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/61/01-0.683s.png",
+          "timeSeconds": 0.683375
+        },
+        {
+          "path": "frames/61/02-1.367s.png",
+          "timeSeconds": 1.36675
+        },
+        {
+          "path": "frames/61/03-2.050s.png",
+          "timeSeconds": 2.050125
+        },
+        {
+          "path": "frames/61/04-2.733s.png",
+          "timeSeconds": 2.7335
+        },
+        {
+          "path": "frames/61/05-3.417s.png",
+          "timeSeconds": 3.4168749999999997
+        },
+        {
+          "path": "frames/61/06-4.100s.png",
+          "timeSeconds": 4.10025
+        },
+        {
+          "path": "frames/61/07-4.784s.png",
+          "timeSeconds": 4.783625
+        }
+      ],
+      "displayTitle": "Персонаж в системе 6",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "62",
+      "type": "poster",
+      "title": "11_One character, everywhere it needed to be. - 6 - poster",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://framerusercontent.com/images/6nhZJbrYMa7LYIFDtt4UYi4dQXo.jpg?width=1493&height=460",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/62-11-One-character-everywhere-it-needed-to-be-6-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 33917,
+      "sha256": "0dccc8f2956d927245153d830257faeefd3016f0291dcca85cc18ccd8ef281b5",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "63",
+      "type": "video",
+      "title": "11_One character, everywhere it needed to be. - 7",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/11_One%20character%2C%20everywhere%20it%20needed%20to%20be./7.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/63-11-One-character-everywhere-it-needed-to-be-7.webm",
+      "contentType": "video/webm",
+      "bytes": 352912,
+      "sha256": "0faffd7ba40bddfd6cc9471efae40db8c62296cbe32b4f6d185db4df30d6366c",
+      "durationSeconds": 2.7,
+      "width": 458,
+      "height": 460,
+      "storyboard": "sheets/63.png",
+      "frames": [
+        {
+          "path": "frames/63/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/63/01-0.338s.png",
+          "timeSeconds": 0.3375
+        },
+        {
+          "path": "frames/63/02-0.675s.png",
+          "timeSeconds": 0.675
+        },
+        {
+          "path": "frames/63/03-1.013s.png",
+          "timeSeconds": 1.0125000000000002
+        },
+        {
+          "path": "frames/63/04-1.350s.png",
+          "timeSeconds": 1.35
+        },
+        {
+          "path": "frames/63/05-1.688s.png",
+          "timeSeconds": 1.6875
+        },
+        {
+          "path": "frames/63/06-2.025s.png",
+          "timeSeconds": 2.0250000000000004
+        },
+        {
+          "path": "frames/63/07-2.363s.png",
+          "timeSeconds": 2.3625000000000003
+        }
+      ],
+      "displayTitle": "Персонаж в системе 7",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "64",
+      "type": "poster",
+      "title": "11_One character, everywhere it needed to be. - 7 - poster",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://framerusercontent.com/images/DCjssQccmBBb2HcGBJ5Y2aEouXs.jpg?width=458&height=460",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/64-11-One-character-everywhere-it-needed-to-be-7-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 12589,
+      "sha256": "34d8033234b6062fef25e9cfc1b4de0cbae15706ffd35b3146332ec6bb350b85",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "65",
+      "type": "video",
+      "title": "11_One character, everywhere it needed to be. - 8",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/11_One%20character%2C%20everywhere%20it%20needed%20to%20be./8.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/65-11-One-character-everywhere-it-needed-to-be-8.webm",
+      "contentType": "video/webm",
+      "bytes": 308971,
+      "sha256": "8963cacf03e983ddbc6e8e65f469c38af299a41aaaef76b16506bc392a50c4b0",
+      "durationSeconds": 2.367,
+      "width": 458,
+      "height": 460,
+      "storyboard": "sheets/65.png",
+      "frames": [
+        {
+          "path": "frames/65/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/65/01-0.296s.png",
+          "timeSeconds": 0.295875
+        },
+        {
+          "path": "frames/65/02-0.592s.png",
+          "timeSeconds": 0.59175
+        },
+        {
+          "path": "frames/65/03-0.888s.png",
+          "timeSeconds": 0.887625
+        },
+        {
+          "path": "frames/65/04-1.183s.png",
+          "timeSeconds": 1.1835
+        },
+        {
+          "path": "frames/65/05-1.479s.png",
+          "timeSeconds": 1.479375
+        },
+        {
+          "path": "frames/65/06-1.775s.png",
+          "timeSeconds": 1.77525
+        },
+        {
+          "path": "frames/65/07-2.071s.png",
+          "timeSeconds": 2.071125
+        }
+      ],
+      "displayTitle": "Персонаж в системе 8",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "66",
+      "type": "poster",
+      "title": "11_One character, everywhere it needed to be. - 8 - poster",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://framerusercontent.com/images/WmwU5rgow1RkArG3o2ifHmEY64.jpg?width=458&height=460",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/66-11-One-character-everywhere-it-needed-to-be-8-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 10986,
+      "sha256": "3720e46ffbac55fba955801baa04a885231b08f1bdffd10d48bd8001c2fc48aa",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "67",
+      "type": "video",
+      "title": "11_One character, everywhere it needed to be. - 9",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/11_One%20character%2C%20everywhere%20it%20needed%20to%20be./9.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/67-11-One-character-everywhere-it-needed-to-be-9.webm",
+      "contentType": "video/webm",
+      "bytes": 133875,
+      "sha256": "38b8b513b043bd3facf6a3a0b597eff39ee7c89899ecacf2e1e16d2a3bdb25ea",
+      "durationSeconds": 1.067,
+      "width": 458,
+      "height": 460,
+      "storyboard": "sheets/67.png",
+      "frames": [
+        {
+          "path": "frames/67/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/67/01-0.133s.png",
+          "timeSeconds": 0.133375
+        },
+        {
+          "path": "frames/67/02-0.267s.png",
+          "timeSeconds": 0.26675
+        },
+        {
+          "path": "frames/67/03-0.400s.png",
+          "timeSeconds": 0.40012499999999995
+        },
+        {
+          "path": "frames/67/04-0.533s.png",
+          "timeSeconds": 0.5335
+        },
+        {
+          "path": "frames/67/05-0.667s.png",
+          "timeSeconds": 0.666875
+        },
+        {
+          "path": "frames/67/06-0.800s.png",
+          "timeSeconds": 0.8002499999999999
+        },
+        {
+          "path": "frames/67/07-0.934s.png",
+          "timeSeconds": 0.9336249999999999
+        }
+      ],
+      "displayTitle": "Персонаж в системе 9",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "68",
+      "type": "poster",
+      "title": "11_One character, everywhere it needed to be. - 9 - poster",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://framerusercontent.com/images/O25S5Vf2uTYlOEvm7cCjhpGJOg.jpg?width=458&height=460",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/68-11-One-character-everywhere-it-needed-to-be-9-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 13270,
+      "sha256": "90c3a6c88b9585450dbbecb0c002fbadce469df666ab6af45654eecc1db7bafc",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "69",
+      "type": "video",
+      "title": "11_One character, everywhere it needed to be. - 10",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/11_One%20character%2C%20everywhere%20it%20needed%20to%20be./10.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/69-11-One-character-everywhere-it-needed-to-be-10.webm",
+      "contentType": "video/webm",
+      "bytes": 2407764,
+      "sha256": "279dd61b3d5d2541921e0310650d8bf5bd290f0a0aa02c61d6871030bdf96e02",
+      "durationSeconds": 6.684,
+      "width": 3050,
+      "height": 812,
+      "storyboard": "sheets/69.png",
+      "frames": [
+        {
+          "path": "frames/69/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/69/01-0.836s.png",
+          "timeSeconds": 0.8355
+        },
+        {
+          "path": "frames/69/02-1.671s.png",
+          "timeSeconds": 1.671
+        },
+        {
+          "path": "frames/69/03-2.506s.png",
+          "timeSeconds": 2.5065
+        },
+        {
+          "path": "frames/69/04-3.342s.png",
+          "timeSeconds": 3.342
+        },
+        {
+          "path": "frames/69/05-4.178s.png",
+          "timeSeconds": 4.1775
+        },
+        {
+          "path": "frames/69/06-5.013s.png",
+          "timeSeconds": 5.013
+        },
+        {
+          "path": "frames/69/07-5.849s.png",
+          "timeSeconds": 5.8485000000000005
+        }
+      ],
+      "displayTitle": "Персонаж в системе 10",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "70",
+      "type": "poster",
+      "title": "11_One character, everywhere it needed to be. - 10 - poster",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://framerusercontent.com/images/CWtY740B20baqvV0jQ7qJhj7P3Y.jpg?width=3050&height=812",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/70-11-One-character-everywhere-it-needed-to-be-10-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 68360,
+      "sha256": "b1600af2ee1eaf34d6342dfad2472236964b5ae5e0b63231399520c1f2159dde",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "71",
+      "type": "video",
+      "title": "11_One character, everywhere it needed to be. - 11",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/11_One%20character%2C%20everywhere%20it%20needed%20to%20be./11.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/71-11-One-character-everywhere-it-needed-to-be-11.webm",
+      "contentType": "video/webm",
+      "bytes": 1643058,
+      "sha256": "4005dcefbfe2b1573bb0c198aaff030c420141eebf17ecd400e96ad69cb68106",
+      "durationSeconds": 8.767,
+      "width": 1002,
+      "height": 834,
+      "storyboard": "sheets/71.png",
+      "frames": [
+        {
+          "path": "frames/71/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/71/01-1.096s.png",
+          "timeSeconds": 1.095875
+        },
+        {
+          "path": "frames/71/02-2.192s.png",
+          "timeSeconds": 2.19175
+        },
+        {
+          "path": "frames/71/03-3.288s.png",
+          "timeSeconds": 3.287625
+        },
+        {
+          "path": "frames/71/04-4.383s.png",
+          "timeSeconds": 4.3835
+        },
+        {
+          "path": "frames/71/05-5.479s.png",
+          "timeSeconds": 5.479374999999999
+        },
+        {
+          "path": "frames/71/06-6.575s.png",
+          "timeSeconds": 6.57525
+        },
+        {
+          "path": "frames/71/07-7.671s.png",
+          "timeSeconds": 7.671125
+        }
+      ],
+      "displayTitle": "Персонаж в системе 11",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "72",
+      "type": "poster",
+      "title": "11_One character, everywhere it needed to be. - 11 - poster",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://framerusercontent.com/images/hHWGDGTsUhYF35Fr6mQmNLTuWGY.jpg?width=1002&height=834",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/72-11-One-character-everywhere-it-needed-to-be-11-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 68285,
+      "sha256": "b83064f2f4108bd0a879d2d592d0be5bbf888b1a1c874b290a0a277744a11c78",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "73",
+      "type": "video",
+      "title": "11_One character, everywhere it needed to be. - 12",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/11_One%20character%2C%20everywhere%20it%20needed%20to%20be./12.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/73-11-One-character-everywhere-it-needed-to-be-12.webm",
+      "contentType": "video/webm",
+      "bytes": 2000343,
+      "sha256": "0034684bf0c10196ad4ea98674e83e1a76cb0273c066e7bdd6621d459404ef9a",
+      "durationSeconds": 9.0,
+      "width": 1002,
+      "height": 834,
+      "storyboard": "sheets/73.png",
+      "frames": [
+        {
+          "path": "frames/73/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/73/01-1.125s.png",
+          "timeSeconds": 1.125
+        },
+        {
+          "path": "frames/73/02-2.250s.png",
+          "timeSeconds": 2.25
+        },
+        {
+          "path": "frames/73/03-3.375s.png",
+          "timeSeconds": 3.375
+        },
+        {
+          "path": "frames/73/04-4.500s.png",
+          "timeSeconds": 4.5
+        },
+        {
+          "path": "frames/73/05-5.625s.png",
+          "timeSeconds": 5.625
+        },
+        {
+          "path": "frames/73/06-6.750s.png",
+          "timeSeconds": 6.75
+        },
+        {
+          "path": "frames/73/07-7.875s.png",
+          "timeSeconds": 7.875
+        }
+      ],
+      "displayTitle": "Персонаж в системе 12",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "74",
+      "type": "poster",
+      "title": "11_One character, everywhere it needed to be. - 12 - poster",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://framerusercontent.com/images/A2f87afq2kcMTqUCkMOR8hU8M.jpg?width=1002&height=834",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/74-11-One-character-everywhere-it-needed-to-be-12-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 64479,
+      "sha256": "2174a2bc77ac385a5374e18402c5e579893ad14adf3e10f434439eea36ff8e0d",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "75",
+      "type": "video",
+      "title": "11_One character, everywhere it needed to be. - 13",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://Novra.b-cdn.net/CaseStudyV2/01_GrokBot/11_One%20character%2C%20everywhere%20it%20needed%20to%20be./13.webm",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/video/75-11-One-character-everywhere-it-needed-to-be-13.webm",
+      "contentType": "video/webm",
+      "bytes": 645825,
+      "sha256": "4122439691fd51dd266a4806bb8725be557418178c62ca7c6f3f4fbd7dcc4de1",
+      "durationSeconds": 3.667,
+      "width": 1002,
+      "height": 834,
+      "storyboard": "sheets/75.png",
+      "frames": [
+        {
+          "path": "frames/75/00-0.000s.png",
+          "timeSeconds": 0.0
+        },
+        {
+          "path": "frames/75/01-0.458s.png",
+          "timeSeconds": 0.458375
+        },
+        {
+          "path": "frames/75/02-0.917s.png",
+          "timeSeconds": 0.91675
+        },
+        {
+          "path": "frames/75/03-1.375s.png",
+          "timeSeconds": 1.375125
+        },
+        {
+          "path": "frames/75/04-1.833s.png",
+          "timeSeconds": 1.8335
+        },
+        {
+          "path": "frames/75/05-2.292s.png",
+          "timeSeconds": 2.291875
+        },
+        {
+          "path": "frames/75/06-2.750s.png",
+          "timeSeconds": 2.75025
+        },
+        {
+          "path": "frames/75/07-3.209s.png",
+          "timeSeconds": 3.2086249999999996
+        }
+      ],
+      "displayTitle": "Персонаж в системе 13",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "76",
+      "type": "poster",
+      "title": "11_One character, everywhere it needed to be. - 13 - poster",
+      "group": "11_One character, everywhere it needed to be.",
+      "url": "https://framerusercontent.com/images/5ME0FevW6pXdt9Yyum4rgUD3qg8.jpg?width=1002&height=834",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/poster/76-11-One-character-everywhere-it-needed-to-be-13-poster.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 61124,
+      "sha256": "21c798aaebf6a6c86b98cff1dfa76b73860d297d9057e8036c21c0e9e152581e",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    },
+    {
+      "id": "77",
+      "type": "rive",
+      "title": "Novra Grokbot interactive runtime",
+      "group": "Playable Rive",
+      "url": "https://framerusercontent.com/assets/5KHPZfVgatbCJkhfM4Ezj89uP4.riv",
+      "sourcePage": "https://www.novra.design/case-studies/grokbot",
+      "rights": "reference only; no reuse license located",
+      "path": "assets/rive/77-Novra-Grokbot-interactive-runtime.riv",
+      "contentType": "application/octet-stream",
+      "bytes": 1118752,
+      "sha256": "a51e6f8bebd36aa6002685e49bea1b611495318fde4ca443c251d87277c7bbfb",
+      "captureStatus": "downloaded",
+      "status": "reference"
+    }
+  ]
+}
